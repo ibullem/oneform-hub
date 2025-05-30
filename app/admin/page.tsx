@@ -152,14 +152,14 @@ export default function AdminLoginPage() {
 
             <div className="mt-6 p-4 bg-gray-50 rounded-lg">
               <p className="text-xs text-gray-600 text-center font-medium">Demo Credentials</p>
-              <div className="mt-2 space-y-1 text-xs text-gray-500">
+              <!--<div className="mt-2 space-y-1 text-xs text-gray-500">
                 <p>
                   <strong>Admin:</strong> admin / admin123
                 </p>
                 <p>
                   <strong>Manager:</strong> manager / manager123
                 </p>
-              </div>
+              </div>-->
             </div>
           </CardContent>
         </Card>
